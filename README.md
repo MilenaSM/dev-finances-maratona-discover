@@ -1,7 +1,8 @@
 <h1 align="center">
-![Group 4](https://user-images.githubusercontent.com/53149634/111179234-9f541180-858a-11eb-9794-ac085b8dc711.png)
-  <img width="400px" src="/assets/logo-1.svg" />
-  <br />
+
+  ![Group 4](https://user-images.githubusercontent.com/53149634/111179234-9f541180-858a-11eb-9794-ac085b8dc711.png)
+
+<br />
 
   <!-- <p align="center"> 
    <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />

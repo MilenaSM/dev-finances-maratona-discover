@@ -1,6 +1,5 @@
 <h1 align="center">
-    Dev-finance$
-  <img width="400px" src="/assets/logo.svg" />
+  <img width="400px" src="/assets/logo-1.svg" />
 
   <br />
 

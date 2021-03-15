@@ -1,10 +1,6 @@
 <h1 align="center">
-<<<<<<< HEAD
-  <img width="400px" src="/assets/logo-1.svg" />
-=======
-  <img width="400px" background="#094416" src="/assets/logo.svg" />
->>>>>>> a820e636c471894ee9ac9af0f3b125a4bbaa7012
 
+  <img width="400px" src="/assets/logo-1.svg" />
   <br />
 
   <!-- <p align="center"> 

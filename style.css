@@ -1,9 +1,22 @@
 /* Global ====================*/
 :root {
-  --dark-blue: #1a1e2e;
-  --dark-mode: #4a4d4d;
-  --green: #49aa26;
+  --bg: #f0f2f5;
+  --white-bg: #ffffff;
+  --text-color-white: #f0f0f0;
+
+  --light-gray: #828aa8;
+
+  --green-link: #247e03;
+
+  --bg-color: #094416;
+  /* --bg-color: #515151; */
+
+  --text-dark: #1a1e2e;
+
+  --green: #1d520a;
+  --green-button: rgb(73, 180, 34);
   --light-green: #3dd705;
+  --lemon-green: #12a454;
   --red: #e92929;
 }
 
@@ -18,13 +31,14 @@ html {
 }
 
 body {
-  background: #f0f2f5;
+  background: var(--bg);
   font-family: "Poppins", sans-serif;
 }
 
-.dark-mode {
-  background: var(--dark-mode);
-}
+/* .dark-mode-body {
+  background-color: var(--dark-gray);
+  color: #fff;
+} */
 
 /* Button for toggle the dark mode =====================*/
 /* The switch - the box around the slider */
@@ -51,25 +65,25 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: #2b2b2b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
 
 .slider:before {
   position: absolute;
-  content: "";
+  content: '';
   height: 16px;
   width: 16px;
   left: 4px;
   bottom: 4px;
-  background-color: white;
+  background-color: #fff;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
 
 input:checked + .slider {
-  background-color: #2196f3;
+  background-color: #12a454;
 }
 
 input:checked + .slider:before {
@@ -110,14 +124,14 @@ input:checked + .slider:before {
 h2 {
   margin-top: 3.2rem;
   margin-bottom: 0.8rem;
-  color: var(--dark-blue);
+  color: var(--text-dark);
   font-weight: normal;
 }
 
 /* Links & Buttons ====================*/
 
 a {
-  color: var(--green);
+  color: var(--green-link);
   text-decoration: none;
 }
 
@@ -131,8 +145,8 @@ button {
 
   border: none;
 
-  color: white;
-  background: var(--green);
+  color: var(--text-color-white);
+  background: var(--green-button);
   padding: 0;
 
   border-radius: 0.25rem;
@@ -171,13 +185,14 @@ button:hover {
 
 /* Header ====================*/
 header {
-  background: #2d4a22;
+  background: var(--bg-color);
+
   padding: 2rem 0 10rem;
   text-align: center;
 }
 
 #logo {
-  color: #fff;
+  color: var(--text-color-white);
   font-weight: 100;
 }
 
@@ -187,13 +202,14 @@ header {
 }
 
 #balance h2 {
-  color: white;
+  color: var(--text-color-white);
   margin-top: 0;
 }
 
 /* Cards ====================*/
 .card {
-  background: white;
+  background: var(--white-bg);
+  color: var(--text-dark);
   padding: 1.5rem;
   border-radius: 0.25rem;
 
@@ -217,8 +233,8 @@ header {
 }
 
 .card.total {
-  background: var(--green);
-  color: white;
+  background: var(--green-button);
+  color: var(--text-color-white);
 }
 
 /* Table ====================*/
@@ -231,7 +247,7 @@ header {
 #data-table {
   width: 100%;
   border-spacing: 0 0.5rem;
-  color: #969cb3;
+  color: var(--light-gray);
 }
 
 table thead tr:first-child,
@@ -245,7 +261,7 @@ table tbody tr td:last-child {
 }
 
 table thead th {
-  background: white;
+  background: var(--white-bg);
 
   font-weight: normal;
   padding: 1rem 2rem;
@@ -261,17 +277,17 @@ table tbody tr:hover {
 }
 
 table tbody td {
-  background: white;
+  background: var(--white-bg);
 
   padding: 1rem 2rem;
 }
 
 td.description {
-  color: var(--dark-blue);
+  color: var(--text-dark);
 }
 
 td.income {
-  color: #12a454;
+  color: var(--lemon-green);
 }
 
 td.expense {
@@ -302,8 +318,12 @@ td.expense {
 }
 
 .modal {
-  background: #f0f2f5;
+  background: var(--bg);
   padding: 2.4rem;
+}
+
+.modal .help {
+  color: var(--light-gray);
 }
 
 /* Form ====================*/
@@ -346,9 +366,9 @@ input {
 
 /* Footer ====================*/
 footer {
+  color: var(--text-dark);
   text-align: center;
   padding: 4rem 0 2rem;
-  color: black;
 
   opacity: 0.6;
 }

@@ -29,12 +29,19 @@ Assim, eu terei o total
 
 
 //  My toggle darkmode ==========================================
-const DarkMode = {
-    addDarkMode(){
-        let darkMode = document.body;
-        darkMode.classList.toggle('dark-mode');
-    }
-}
+// const DarkMode = {
+//     addDarkMode(){
+//         let darkModeBody = document.body;
+//         darkModeBody.classList.toggle('dark-mode-body');
+        
+//         // let darkModeCard = document.body;
+//         // darkModeCard.classList.add('dark-mode-card');
+        
+//         // let darkModeCard = document.body;
+//         // darkModeCard.classList.add('dark-mode-card');
+        
+//     }
+// }
 //  My function toggle ==========================================
  const Modal = {
     toggle() {
@@ -151,9 +158,9 @@ const DOM = {
 
 const Utils = {
     formatAmount(value){
-        value = Number(value) * 100
-
-        return value
+        value = value * 100
+        
+        return Math.round(value)
     },
 
     formatDate(date) {
@@ -266,3 +273,6 @@ const App = {
 }
 
 App.init()
+
+// JÁ FIZ O REPOSITÓRIO LOCAL
+// FAZER O REPOSITÓRIO NO GITHUB

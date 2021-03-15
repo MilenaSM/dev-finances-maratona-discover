@@ -15,11 +15,16 @@
 
 # Modo normal
 </br>
+
 ![](/assets/Primeiro.gif)
+
 </br>
 # Modo escuro
+
 </br>
+
 ![](/assets/Segundo.gif)
+
 </br>
 
 <!--

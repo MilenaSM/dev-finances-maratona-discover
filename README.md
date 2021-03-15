@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  ![Group 4](https://user-images.githubusercontent.com/53149634/111179234-9f541180-858a-11eb-9794-ac085b8dc711.png)
+  ![Group 4](https://user-images.githubusercontent.com/53149634/111180285-a62f5400-858b-11eb-8c4f-b76adf449666.png)
 
 <br />
 
@@ -32,9 +32,7 @@
 ## Descrição :page_with_curl:
 App foi desenvolvido na semana Discover da rocketseat, eu realizei melhorias. A aplicação feita com Javascript serve para armazenar e calcular os gastos dos desenvolvedores. 
 
-## Layout :art: 
-
-### Telas do App :paperclip:
+## Telas do App :paperclip:
 
 ### Modo normal
 </br>
@@ -88,11 +86,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 <br />
 
-<!-- ## Deploy da Aplicação com Vercel: :punch:
-
-> https://moveitmonteiro.vercel.app/
-
-<br /> -->
+<!-- ## Deploy da Aplicação com Vercel: :punch:> https://moveitmonteiro.vercel.app/<br /> -->
 
 ## Como rodar a aplicação :runner:
 
@@ -104,15 +98,7 @@ O projeto foi desenvolvido com as tecnologias:
 
   ```cd dev-finances-maratona-discover ```
 
-<!-- - Instale as dependências:
-
-  ```yarn stall```
-
-- Execute a aplicação:
-  
-  ```yarn dev```
-
-- Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000. -->
+<!-- - Instale as dependências: ```yarn stall```- Execute a aplicação:  ```yarn dev```- Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000. -->
 
 <br />
 

@@ -1,6 +1,5 @@
 <h1 align="center">
-    Dev-finance$
-  <img width="400px" src="/assets/logo.svg" />
+  <img width="400px" background="#094416" src="/assets/logo.svg" />
 
   <br />
 
@@ -16,14 +15,17 @@
 ![](/assets/Primeiro.gif)
 ![](/assets/Segundo.gif)
 
+<!--
   <img width="400px" src="/assets/tela-1.svg" />  <img width="400px" src="/assets/tela-2.svg" />  <img width="400px" src="/assets/tela-3.svg" />  <img width="400px" src="/assets/tela-4.svg" />  <img width="400px" src="/assets/tela-5.svg" />  <img width="400px" src="/assets/tela-6.svg" />
-
+-->
+<!--
 ![](/assets/tela-1.svg)
 ![](/assets/tela-2.svg)
 ![](/assets/tela-3.svg)
 ![](/assets/tela-4.svg)
 ![](/assets/tela-5.svg)
 ![](/assets/tela-6.svg)
+-->
 
 <br />
 

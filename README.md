@@ -13,8 +13,14 @@
 
 ## Telas do App :paperclip:
 
+# Modo normal
+</br>
 ![](/assets/Primeiro.gif)
+</br>
+# Modo escuro
+</br>
 ![](/assets/Segundo.gif)
+</br>
 
 <!--
   <img width="400px" src="/assets/tela-1.svg" />  <img width="400px" src="/assets/tela-2.svg" />  <img width="400px" src="/assets/tela-3.svg" />  <img width="400px" src="/assets/tela-4.svg" />  <img width="400px" src="/assets/tela-5.svg" />  <img width="400px" src="/assets/tela-6.svg" />

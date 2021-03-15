@@ -32,22 +32,29 @@
 ## Descrição :page_with_curl:
 App foi desenvolvido na semana Discover da rocketseat, eu realizei melhorias. A aplicação feita com Javascript serve para armazenar e calcular os gastos dos desenvolvedores. 
 
+<br />
+
+## Deploy da Aplicação com Vercel: :punch:
+> https://dev-finances-two-navy.vercel.app
+
+<br />
+
 ## Telas do App :paperclip:
 
 ### Modo normal
-</br>
+<br />
 
 ![](/assets/Primeiro.gif)
 
-</br>
+<br />
 
 ### Modo escuro
 
-</br>
+<br />
 
 ![](/assets/Segundo.gif)
 
-</br>
+<br />
 
 <!-- ## Layout :art: 
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>. -->
@@ -83,10 +90,6 @@ O projeto foi desenvolvido com as tecnologias:
 :heavy_plus_sign: Calcula valores de entrada e saída.
 
 :eyes: Funcional em computadores, celulares e tablets.
-
-<br />
-
-## Deploy da Aplicação com Vercel: :punch:> https://dev-finances-two-navy.vercel.app
 
 <br />
 

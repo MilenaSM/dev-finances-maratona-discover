@@ -11,22 +11,6 @@
 
 </h1>
 
-## Telas do App :paperclip:
-
-# Modo normal
-</br>
-
-![](/assets/Primeiro.gif)
-
-</br>
-# Modo escuro
-
-</br>
-
-![](/assets/Segundo.gif)
-
-</br>
-
 <!--
   <img width="400px" src="/assets/tela-1.svg" />  <img width="400px" src="/assets/tela-2.svg" />  <img width="400px" src="/assets/tela-3.svg" />  <img width="400px" src="/assets/tela-4.svg" />  <img width="400px" src="/assets/tela-5.svg" />  <img width="400px" src="/assets/tela-6.svg" />
 -->
@@ -47,6 +31,25 @@
 
 ## Descrição :page_with_curl:
 App foi desenvolvido na semana Discover da rocketseat, eu realizei melhorias. A aplicação feita com Javascript serve para armazenar e calcular os gastos dos desenvolvedores. 
+
+## Layout :art: 
+
+### Telas do App :paperclip:
+
+### Modo normal
+</br>
+
+![](/assets/Primeiro.gif)
+
+</br>
+
+### Modo escuro
+
+</br>
+
+![](/assets/Segundo.gif)
+
+</br>
 
 <!-- ## Layout :art: 
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>. -->
